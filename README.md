@@ -1,7 +1,7 @@
-# App Name goes here
+# OP Code Simulator
 
 ## Prerequisites
-- ruby 3.0
+- ruby 3.4
 
 ## Execution
 - Run `gem install bundler`
